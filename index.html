@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>App Lab Kurs</title>
+  <title>Robotik Kurs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -17,7 +17,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'App Lab Kurs',
+      name: 'Robotik Kurs',
       homepage: 'index.md',
       auto2top: true,
       loadSidebar: true,
@@ -73,7 +73,7 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/mrsie/AppLab/blob/master/' + vm.route.file
+            var url = 'https://github.com/mrsie/Rob/blob/master/' + vm.route.file
             var editHtml = '[Edit on GitHub](' + url + ')\n'
             return "<p style='text-align:right;'>{docsify-updated}<p>\n\n" + html
               + '\n\n----\n'
