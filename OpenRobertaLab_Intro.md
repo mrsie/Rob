@@ -46,7 +46,7 @@ t> Lass den Roboter das Haus vom Nikolaus abfahren.
 ## <a name='Bildschirmaufnahmen'></a>Bildschirmaufnahmen
 
 ### <a name='Auswahl-des-Systems'></a>Auswahl des Systems
-Wenn du das Open Roberta Lab startest musst du zunächst das System auswählen.
+Wenn du das Open Roberta Lab startest, musst du zunächst das System auswählen.
 Klicke hierzu auf das NXT-Symbol.
 
 i> Zum verschieben der Symbole kannst du die Pfeile auf der linken und rechen Seite verwenden.
