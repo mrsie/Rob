@@ -39,7 +39,10 @@ Hier siehst du, wie du einen Block dein Programm per Drag-and-Drop hinzufügen k
 ![Drag and Drop Animation](img/drag_and_drop_aktion_block.gif)
 
 ### Simulation
-Hier siehst du, wie du den Simulationsbereich öffnest, die Simulationsumgebung wechselst und die Simulation startest.
+Hier siehst du, wie du
+1. den Simulationsbereich öffnest,
+2. die Simulationsumgebung wechselst und
+3. die Simulation startest.
 
 ![Simulations Anmimation](img/simulation.gif)
 
