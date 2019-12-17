@@ -1,10 +1,10 @@
 # Einführung in das Open Roberta Lab
 Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mit dem Open Roberta Lab
 
-# Ziel
+## Ziel
 t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von 20 cm abfährt.
 
-# Anleitung
+## Anleitung
 * Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
 * Wähle NXT als System aus. Klicke hierzu auf das NXT-Symbol.
 
@@ -25,5 +25,5 @@ i> Für dein Programm benötigst du die Blöcke:
 * Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
 kann. Du findest diesen Block unter der Rubrik „Kontrolle“
 
-# Zusatzaufgabe
+## Zusatzaufgabe
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
