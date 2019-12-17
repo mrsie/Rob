@@ -1,6 +1,6 @@
 * [Home](index.md)
 
-* [Open Roberta Lab](OpenRobertaLab_Intor.md)
+* [Open Roberta Lab](OpenRobertaLab_Intro.md)
 
 * [Aufgaben](Aufgaben.md)
 
