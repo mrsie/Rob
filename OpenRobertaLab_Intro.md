@@ -30,7 +30,7 @@ und ausführen kann. Aus diesen Anweisungen kannst du ein Programm
 erstellen, das der Roboter Schritt für Schritt abarbeitet.
 Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
-4. Über lege dir wie dir der Block `Wiederhole 10 mal mache ...` weiter helfen
+4. Überlege dir, wie dir der Block `Wiederhole 10 mal mache ...` weiter helfen
 kann. Du findest diesen Block unter der Rubrik `Kontrolle`
 
 i> Für dein Programm benötigst du die Blöcke: <br>
