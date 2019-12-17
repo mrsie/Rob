@@ -2,7 +2,7 @@
 
 Herzlich Wilkommen zu diesem Robotik Kurs.
 
-Hier lernst du, wie du deinen NXT-Roboter mit Hilfe des Open Roberta Labs programmieren kannst.
+Hier lernst du, wie du deinen NXT-LEGO-Roboter mit Hilfe des Open Roberta Labs programmieren kannst.
 
 
 
