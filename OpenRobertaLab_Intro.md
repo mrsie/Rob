@@ -7,7 +7,7 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 * [Anleitung](#Anleitung)
 * [Zusatzaufgabe](#Zusatzaufgabe)
 * [Bildschirmaufnahmen](#Bildschirmaufnahmen)
-	* [Auswahl des Systems](#AuswahldesSystems)
+	* [Auswahl des Systems](#Auswahl-des-Systems)
 	* [Drag-and-Drop](#Drag-and-Drop)
 	* [Simulation](#Simulation)
 
@@ -22,7 +22,7 @@ t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von
 
 ## <a name='Anleitung'></a>Anleitung
 1. Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
-2. [Wähle NXT als System aus.](#AuswahldesSystems) Klicke hierzu auf das NXT-Symbol.
+2. [Wähle NXT als System aus.](#Auswahl-des-Systems) Klicke hierzu auf das NXT-Symbol.
 
 3. Auf der linken Seite findest du unter `Aktion` die Aktionsblöcke.
 Diese Aktionsblöcke sind Anweisungen, die der NXT-LEGO-Roboter versteht
@@ -45,7 +45,7 @@ t> Lass den Roboter das Haus vom Nikolaus abfahren.
 
 ## <a name='Bildschirmaufnahmen'></a>Bildschirmaufnahmen
 
-### <a name='AuswahldesSystems'></a>Auswahl des Systems
+### <a name='Auswahl-des-Systems'></a>Auswahl des Systems
 Wenn du das Open Roberta Lab startest musst du zunächst das System auswählen.
 Klicke hierzu auf das NXT-Symbol.
 
