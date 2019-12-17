@@ -7,6 +7,7 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 * [Anleitung](#Anleitung)
 * [Zusatzaufgabe](#Zusatzaufgabe)
 * [Bildschirmaufnahmen](#Bildschirmaufnahmen)
+	* [Auswahl des Systems](#AuswahldesSystems)
 	* [Drag-and-Drop](#Drag-and-Drop)
 	* [Simulation](#Simulation)
 
@@ -20,19 +21,17 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von 20 cm abfährt.
 
 ## <a name='Anleitung'></a>Anleitung
-* Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
-* Wähle NXT als System aus. Klicke hierzu auf das NXT-Symbol.
+1. Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
+2. Wähle NXT als System aus. Klicke hierzu auf das NXT-Symbol.
 
-i> Zum verschieben der Symbole kannst du die Pfeile auf der linken und rechen Seite verwenden.
-![System-Auswahl-Fenster mit dem Text "Wähle dein System" - Zur auswahl stehen EV3, NXT oder micro:bit ... - mit Pfeilen auf der linken und rechten Seite des Bildes.](img/waehle_dein_system.png)
-
-* Auf der linken Seite findest du unter „Aktion“ die Aktionsblöcke.
+3. Auf der linken Seite findest du unter „Aktion“ die Aktionsblöcke.
 Diese Aktionsblöcke sind Anweisungen, die der NXT-LEGO-Roboter versteht
 und ausführen kann. Aus diesen Anweisungen kannst du ein Programm
 erstellen, das der Roboter Schritt für Schritt abarbeitet.
 Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
-![Aktionsbereich auf der linken Seite des Open Roberta Labs mit den Aktions-Blöcken.](img/aktion.png)
+4. Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
+kann. Du findest diesen Block unter der Rubrik „Kontrolle“
 
 i> Für dein Programm benötigst du die Blöcke: <br>
 <img alt="Programm-Block 'Fahre vorwärts Tempo % ___ Strecke cm ___'" style="text-align:left" width="300" src="img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png"> 
@@ -40,14 +39,18 @@ i> Für dein Programm benötigst du die Blöcke: <br>
 
 i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Simulation) tun.
 
-* Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
-kann. Du findest diesen Block unter der Rubrik „Kontrolle“
-
 ## <a name='Zusatzaufgabe'></a>Zusatzaufgabe
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
 
 
 ## <a name='Bildschirmaufnahmen'></a>Bildschirmaufnahmen
+
+### <a name='AuswahldesSystems'></a>Auswahl des Systems
+Wenn du das Open Roberta Lab startest musst du zunächst das System auswählen.
+Klicke hierzu auf das NXT-Symbol.
+
+i> Zum verschieben der Symbole kannst du die Pfeile auf der linken und rechen Seite verwenden.
+![System-Auswahl-Fenster mit dem Text "Wähle dein System" - Zur auswahl stehen EV3, NXT oder micro:bit ... - mit Pfeilen auf der linken und rechten Seite des Bildes.](img/waehle_dein_system.png)
 
 ### <a name='Drag-and-Drop'></a>Drag-and-Drop
 Hier siehst du, wie du einen Block dein Programm per Drag-and-Drop hinzufügen kannst.
