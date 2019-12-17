@@ -21,3 +21,9 @@ erstellen, das der Roboter Schritt für Schritt abarbeitet.
 i> Für dein Programm benötigst du die Blöcke:
 * ![Programm-Block "Fahre vorwärts Tempo % ___ Strecke cm ___"](img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png)
 * ![Programm-Block "Drehe rechts Tempo % ___ Grad ___"](img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png)
+
+4. Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
+kann. Du findest diesen Block unter der Rubrik „Kontrolle“
+
+# Zusatzaufgabe
+t> Lass den Roboter das Haus vom Nikolaus abfahren.
