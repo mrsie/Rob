@@ -15,6 +15,7 @@ i> Zum verschieben der Symbole kannst du die Pfeile auf der linken und rechen Se
 Diese Aktionsblöcke sind Anweisungen, die der NXT-LEGO-Roboter versteht
 und ausführen kann. Aus diesen Anweisungen kannst du ein Programm
 erstellen, das der Roboter Schritt für Schritt abarbeitet.
+Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
 ![Aktionsbereich auf der linken Seite des Open Roberta Labs mit den Aktions-Blöcken.](img/aktion.png)
 
@@ -22,8 +23,25 @@ i> Für dein Programm benötigst du die Blöcke:
 ![Programm-Block "Fahre vorwärts Tempo % ___ Strecke cm ___"](img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png)
 ![Programm-Block "Drehe rechts Tempo % ___ Grad ___"](img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png)
 
+i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Simulation) tun.
+
 * Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
 kann. Du findest diesen Block unter der Rubrik „Kontrolle“
 
 ## Zusatzaufgabe
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
+
+
+## Bildschirmaufnahmen
+
+### Drag-and-Drop
+Hier siehst du, wie du einen Block dein Programm per Drag-and-Drop hinzufügen kannst.
+![Drag and Drop Animation](img/drag_and_drop_aktion_block.gif)
+
+### Simulation
+Hier siehst du, wie du den Simulationsbereich öffnest, die Simulationsumgebung wechselst und die Simulation startest.
+
+i> Bei der zweiten Simulationsumgebung hinterläst der Roboter eine Spur in der Siumlationsumgebung.
+
+![Simulations Anmimation](img/simulation.gif)
+
