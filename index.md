@@ -1,8 +1,8 @@
 # Robotik Kurs
 
-:wave: Herzlich Wilkommen zu diesem Robotik Kurs. :robot:
+Herzlich Wilkommen zu diesem Robotik Kurs.
 
-Hier lernst du, wie du deinen NXT-Roboter mit Hilfe des Open Roberta Labs programmieren kannst. :woman_technologist: :man_technologist:
+Hier lernst du, wie du deinen NXT-Roboter mit Hilfe des Open Roberta Labs programmieren kannst.
 
 
 
