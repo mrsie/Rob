@@ -19,7 +19,8 @@ Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
 ![Aktionsbereich auf der linken Seite des Open Roberta Labs mit den Aktions-Blöcken.](img/aktion.png)
 
-i> Für dein Programm benötigst du die Blöcke: 
+i> Für dein Programm benötigst du die Blöcke:
+<img alt="Programm-Block 'Fahre vorwärts Tempo % ___ Strecke cm ___'" style="align:left" src="img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png"> 
 ![Programm-Block "Fahre vorwärts Tempo % ___ Strecke cm ___"](img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png)
 ![Programm-Block "Drehe rechts Tempo % ___ Grad ___"](img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png)
 
