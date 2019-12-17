@@ -1,7 +1,7 @@
 # Einführung in das Open Roberta Lab
 Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mit dem Open Roberta Lab
 
-Inhaltsverzeichnis
+**Inhaltsverzeichnis**
 <!-- vscode-markdown-toc -->
 * [Ziel](#Ziel)
 * [Anleitung](#Anleitung)
