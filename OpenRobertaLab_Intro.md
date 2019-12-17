@@ -22,16 +22,16 @@ t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von
 
 ## <a name='Anleitung'></a>Anleitung
 1. Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
-2. Wähle NXT als System aus. Klicke hierzu auf das NXT-Symbol.
+2. [Wähle NXT als System aus.](#AuswahldesSystems) Klicke hierzu auf das NXT-Symbol.
 
-3. Auf der linken Seite findest du unter „Aktion“ die Aktionsblöcke.
+3. Auf der linken Seite findest du unter `Aktion` die Aktionsblöcke.
 Diese Aktionsblöcke sind Anweisungen, die der NXT-LEGO-Roboter versteht
 und ausführen kann. Aus diesen Anweisungen kannst du ein Programm
 erstellen, das der Roboter Schritt für Schritt abarbeitet.
 Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
-4. Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
-kann. Du findest diesen Block unter der Rubrik „Kontrolle“
+4. Über lege dir wie dir der Block `Wiederhole 10 mal mache ...` weiter helfen
+kann. Du findest diesen Block unter der Rubrik `Kontrolle`
 
 i> Für dein Programm benötigst du die Blöcke: <br>
 <img alt="Programm-Block 'Fahre vorwärts Tempo % ___ Strecke cm ___'" style="text-align:left" width="300" src="img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png"> 
