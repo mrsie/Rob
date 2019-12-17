@@ -41,7 +41,6 @@ Hier siehst du, wie du einen Block dein Programm per Drag-and-Drop hinzufügen k
 ### Simulation
 Hier siehst du, wie du den Simulationsbereich öffnest, die Simulationsumgebung wechselst und die Simulation startest.
 
-i> Bei der zweiten Simulationsumgebung hinterläst der Roboter eine Spur in der Siumlationsumgebung.
-
 ![Simulations Anmimation](img/simulation.gif)
 
+i> Bei der zweiten Simulationsumgebung hinterläst der Roboter eine Spur in der Siumlationsumgebung.
