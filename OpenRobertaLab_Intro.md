@@ -1,10 +1,25 @@
 # Einführung in das Open Roberta Lab
 Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mit dem Open Roberta Lab
 
-## Ziel
+Inhaltsverzeichnis
+<!-- vscode-markdown-toc -->
+* [Ziel](#Ziel)
+* [Anleitung](#Anleitung)
+* [Zusatzaufgabe](#Zusatzaufgabe)
+* [Bildschirmaufnahmen](#Bildschirmaufnahmen)
+	* [Drag-and-Drop](#Drag-and-Drop)
+	* [Simulation](#Simulation)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## <a name='Ziel'></a>Ziel
 t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von 20 cm abfährt.
 
-## Anleitung
+## <a name='Anleitung'></a>Anleitung
 * Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
 * Wähle NXT als System aus. Klicke hierzu auf das NXT-Symbol.
 
@@ -19,7 +34,7 @@ Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
 
 ![Aktionsbereich auf der linken Seite des Open Roberta Labs mit den Aktions-Blöcken.](img/aktion.png)
 
-i> Für dein Programm benötigst du die Blöcke:
+i> Für dein Programm benötigst du die Blöcke: <br>
 <img alt="Programm-Block 'Fahre vorwärts Tempo % ___ Strecke cm ___'" style="text-align:left" width="300" src="img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png"> 
 <img alt="Programm-Block 'Drehe rechts Tempo % ___ Grad ___'" style="text-align:left" width="300" src="img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png">
 
@@ -28,17 +43,17 @@ i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Si
 * Über lege dir wie dir der Block „Wiederhole 10 mal mache …“ weiter helfen
 kann. Du findest diesen Block unter der Rubrik „Kontrolle“
 
-## Zusatzaufgabe
+## <a name='Zusatzaufgabe'></a>Zusatzaufgabe
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
 
 
-## Bildschirmaufnahmen
+## <a name='Bildschirmaufnahmen'></a>Bildschirmaufnahmen
 
-### Drag-and-Drop
+### <a name='Drag-and-Drop'></a>Drag-and-Drop
 Hier siehst du, wie du einen Block dein Programm per Drag-and-Drop hinzufügen kannst.
 ![Drag and Drop Animation](img/drag_and_drop_aktion_block.gif)
 
-### Simulation
+### <a name='Simulation'></a>Simulation
 Hier siehst du, wie du
 1. den Simulationsbereich öffnest,
 2. die Simulationsumgebung wechselst und
