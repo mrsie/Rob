@@ -19,23 +19,26 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von 20 cm abfährt.
 
 ### Anleitung
-1. Öffne die Webseite: [https://lab.open-roberta.org/](https://lab.open-roberta.org/)
-2. [Wähle NXT als System aus.](#Auswahl-des-Systems) Klicke hierzu auf das NXT-Symbol.
 
-3. Auf der linken Seite findest du unter `Aktion` die Aktionsblöcke.
+<ol>
+<li>Öffne die Webseite: <a href="https://lab.open-roberta.org/" target="_blank">https://lab.open-roberta.org/</a></li>
+<li><p><a href="#/OpenRobertaLab_Intro?id=auswahl-des-systems">Wähle NXT als System aus.</a> Klicke hierzu auf das NXT-Symbol.</p></li>
+<li><p>Auf der linken Seite findest du unter <code>Aktion</code> die Aktionsblöcke.
 Diese Aktionsblöcke sind Anweisungen, die der NXT-LEGO-Roboter versteht
 und ausführen kann. Aus diesen Anweisungen kannst du ein Programm
 erstellen, das der Roboter Schritt für Schritt abarbeitet.
-Diese Aktionsblöcke kannst du per [Drag-and-Drop](#Drag-and-Drop) hinzufügen.
-
-4. Überlege dir, wie dir der Block `Wiederhole 10 mal mache ...` weiter helfen
-kann. Du findest diesen Block unter der Rubrik `Kontrolle`
-
-i> Für dein Programm benötigst du die Blöcke: <br>
+Diese Aktionsblöcke kannst du per <a href="#/OpenRobertaLab_Intro?id=drag-and-drop">Drag-and-Drop</a> hinzufügen.</p></li>
+<p class="alert alert-info">Für dein Programm benötigst du die Blöcke: <br>
 <img alt="Programm-Block 'Fahre vorwärts Tempo % ___ Strecke cm ___'" style="text-align:left" width="300" src="img/Block_fahre_vorwaerts_tempo_in_prozent_strecke_in_cm.png"> 
-<img alt="Programm-Block 'Drehe rechts Tempo % ___ Grad ___'" style="text-align:left" width="300" src="img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png">
+<img alt="Programm-Block 'Drehe rechts Tempo % ___ Grad ___'" style="text-align:left" width="300" src="img/Block_drehe_rechts_tempo_in_prozent_winkel_in_grad.png"></p>
+<li><p>Überlege dir, wie dir der Block <code>Wiederhole 10 mal mache ...</code> weiter helfen
+kann. Du findest diesen Block unter der Rubrik <code>Kontrolle</code></p></li>
+</ol>
+
 
 i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Simulation) tun.
+
+<!-- TODO: Lösung anzeigen. -->
 
 ### Zusatzaufgabe
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
