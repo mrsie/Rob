@@ -8,6 +8,7 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 	* [Zusatzaufgabe](#Zusatzaufgabe)
 * [Konto anlegen](#Konto-anlegen])
 * [Programm speichern](#Programm-speichern)
+* [Programm öffnen](#Programm-öffnen)
 * [Bildschirmaufnahmen](#Bildschirmaufnahmen)
 	* [Auswahl des Systems](#Auswahl-des-Systems)
 	* [Drag-and-Drop](#Drag-and-Drop)
@@ -50,31 +51,31 @@ Das Konto kannst du u.a. dafür verwenden deine Programme zu speichern.
 <!-- TODO: Open all details at the same time. -->
 <ol>
 <li> Klicke auf das Benutzer-Icon.
-<details>
-  <summary>Bildschirmaufnahme anzeigen.</summary>
-	<img alt="Screenshot der Anmeldung Schritt 1" src="img/anmeldung_1.png">
-</details>
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot der Anmeldung Schritt 1" src="img/anmeldung_1.png">
+	</details>
 </li>
 
 <li> Klicke auf `anmelden ...`.
-<details>
-  <summary>Bildschirmaufnahme anzeigen.</summary>
-	<img alt="Screenshot der Anmeldung Schritt 2" src="img/anmeldung_2.png">
-</details>
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot der Anmeldung Schritt 2" src="img/anmeldung_2.png">
+	</details>
 </li>
 
 <li> Klicke auf `neu`
-<details>
-  <summary>Bildschirmaufnahme anzeigen.</summary>
-	<img alt="Screenshot der Anmeldung Schritt 3" src="img/anmeldung_3.png">
-</details>
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot der Anmeldung Schritt 3" src="img/anmeldung_3.png">
+	</details>
 </li>
 
 <li> Fülle das Anmelde-Formular aus.
-<details>
-  <summary>Bildschirmaufnahme anzeigen.</summary>
-	<img alt="Screenshot der Anmeldung Schritt 4" src="img/anmeldung_4.png">
-</details>
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot der Anmeldung Schritt 4" src="img/anmeldung_4.png">
+	</details>
 </li>
 
 <li> Klicke auf `Jetzt registrieren` </li>
@@ -83,6 +84,62 @@ Das Konto kannst du u.a. dafür verwenden deine Programme zu speichern.
 i> Die Felder `Name` und `E-Mail` sind **optional**.
 
 ## Programm speichern
+Hier findest du eine Schritt-für-Schirtt-Anleitung, wie dein Programm speicher kannst.
+<ol>
+<li> Klicke auf das Bearbeiten-Icon.
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 1" src="img/Programm_speichern_1.png">
+	</details>
+</li>
+
+<li> Klicke auf `speichern unter ...`.
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_2.png">
+	</details>
+</li>
+
+<li> Gib deinem Programm einen Namen.
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 3" src="img/Programm_speichern_3.png">
+	</details>
+</li>
+
+<li> Klicke auf `OK`.
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 4" src="img/Programm_speichern_4.png">
+	</details>
+</li>
+</ol>
+
+## Programm öffnen
+Um ein Programm zu öffnen, muss du dich zunächst anmelden.
+
+Danach kannst du ...
+<ol>
+<li> auf das Bearbeiten-Icon klicken,
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Öffnens eines Programmes Schritt 1" src="img/Programm_speichern_1.png">
+	</details>
+</li>
+<li> auf `meine Programme ...` klicken,
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_6.png">
+	</details>
+</li>
+<li> dann das Programm aus der Liste deiner Programmes auswählen und per Maus-Klick öffnen.
+	<details>
+	<summary>Bildschirmaufnahme anzeigen.</summary>
+		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_6.png">
+	</details>
+</li>
+
+</ol>
 
 
 ## Bildschirmaufnahmen
