@@ -1,6 +1,6 @@
 # Robotik Kurs
 
-Herzlich Wilkommen zu diesem Robotik Kurs.
+Herzlich Wilkommen zu diesem Robotik Kurs. <i class="fas fa-robot"></i>
 
 Hier lernst du, wie du deinen NXT-LEGO-Roboter mit Hilfe des Open Roberta Labs programmieren kannst.
 
