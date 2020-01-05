@@ -1,20 +1,20 @@
 # Einführung in das Open Roberta Lab
 Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mit dem Open Roberta Lab
 
-## Gliederung
-* [Dein erstes Programm](#Dein-erstes-Programm)
+## <i class="fas fa-list-ul"></i> Gliederung
+* <i class="fas fa-play"></i> [Dein erstes Programm](#-Dein-erstes-Programm) 
 	* [Ziel](#Ziel)
 	* [Anleitung](#Anleitung)
 	* [Zusatzaufgabe](#Zusatzaufgabe)
-* [Konto anlegen](#Konto-anlegen])
-* [Programm speichern](#Programm-speichern)
-* [Programm öffnen](#Programm-öffnen)
-* [Bildschirmaufnahmen](#Bildschirmaufnahmen)
+* <i class="fas fa-user-circle"></i> [Konto anlegen](#-Konto-anlegen)
+* <i class="fas fa-save"></i> [Programm speichern](#-Programm-speichern)
+* <i class="fas fa-folder-open"></i> [Programm öffnen](#-Programm-öffnen)
+* <i class="fas fa-desktop"></i> [Bildschirmaufnahmen](#-Bildschirmaufnahmen)
 	* [Auswahl des Systems](#Auswahl-des-Systems)
 	* [Drag-and-Drop](#Drag-and-Drop)
 	* [Simulation](#Simulation)
 
-## Dein erstes Programm
+## <i class="fas fa-play"></i> Dein erstes Programm
 
 ### Ziel
 t> Programmiere den Roboter so, dass dieser ein Viereck mit der Seitenlänge von 20 cm abfährt.
@@ -41,16 +41,16 @@ i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Si
 
 <!-- TODO: Lösung anzeigen. -->
 
-### Zusatzaufgabe
+### Zusatzaufgabe  <i class="fas fa-star"></i> 
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
 
-## Konto anlegen
+## <i class="fas fa-user-circle"></i> Konto anlegen
 Hier findest du eine Schritt-für-Schirtt-Anleitung, wie die ein Konto für das Open Roberta Lab anlegst.
 
 Das Konto kannst du u.a. dafür verwenden deine Programme zu speichern.
 <!-- TODO: Open all details at the same time. -->
 <ol>
-<li> Klicke auf das Benutzer-Icon.
+<li> Klicke auf das Benutzer-Icon <i class="fas fa-user"></i>.
 	<details>
 	<summary>Bildschirmaufnahme anzeigen.</summary>
 		<img alt="Screenshot der Anmeldung Schritt 1" src="img/anmeldung_1.png">
@@ -83,7 +83,7 @@ Das Konto kannst du u.a. dafür verwenden deine Programme zu speichern.
 
 i> Die Felder `Name` und `E-Mail` sind **optional**.
 
-## Programm speichern
+## <i class="fas fa-save"></i> Programm speichern
 Hier findest du eine Schritt-für-Schirtt-Anleitung, wie dein Programm speicher kannst.
 <ol>
 <li> Klicke auf das Bearbeiten-Icon.
@@ -115,7 +115,7 @@ Hier findest du eine Schritt-für-Schirtt-Anleitung, wie dein Programm speicher 
 </li>
 </ol>
 
-## Programm öffnen
+## <i class="fas fa-folder-open"></i> Programm öffnen
 Um ein Programm zu öffnen, muss du dich zunächst anmelden.
 
 Danach kannst du ...
@@ -142,7 +142,7 @@ Danach kannst du ...
 </ol>
 
 
-## Bildschirmaufnahmen
+## <i class="fas fa-desktop"></i> Bildschirmaufnahmen
 
 ### Auswahl des Systems
 Wenn du das Open Roberta Lab startest, musst du zunächst das System auswählen.
