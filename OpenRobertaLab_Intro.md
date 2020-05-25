@@ -5,10 +5,11 @@ Hier findest du eine kurze Einführung in die Programmierung des NXT-Roboters mi
 * <i class="fas fa-play"></i> [Dein erstes Programm](#-Dein-erstes-Programm) 
 	* [Ziel](#Ziel)
 	* [Anleitung](#Anleitung)
-	* [Zusatzaufgabe](#Zusatzaufgabe)
+	* [Zusatzaufgabe](#Zusatzaufgabe-)
 * <i class="fas fa-user-circle"></i> [Konto anlegen](#-Konto-anlegen)
 * <i class="fas fa-save"></i> [Programm speichern](#-Programm-speichern)
 * <i class="fas fa-folder-open"></i> [Programm öffnen](#-Programm-öffnen)
+* <i class="fas fa-download"></i> [Programm auf Robotor übertragen](#-Programm-auf-Roboter-übertragen)
 * <i class="fas fa-desktop"></i> [Bildschirmaufnahmen](#-Bildschirmaufnahmen)
 	* [Auswahl des Systems](#Auswahl-des-Systems)
 	* [Drag-and-Drop](#Drag-and-Drop)
@@ -41,7 +42,7 @@ i> Wenn du dein Programm testen möchtest, kannst du das in der [Simulation](#Si
 
 <!-- TODO: Lösung anzeigen. -->
 
-### Zusatzaufgabe  <i class="fas fa-star"></i> 
+### Zusatzaufgabe  <i class="fas fa-star"></i>
 t> Lass den Roboter das Haus vom Nikolaus abfahren.
 
 ## <i class="fas fa-user-circle"></i> Konto anlegen
@@ -49,97 +50,89 @@ Hier findest du eine Schritt-für-Schirtt-Anleitung, wie die ein Konto für das 
 
 Das Konto kannst du u.a. dafür verwenden deine Programme zu speichern.
 <!-- TODO: Open all details at the same time. -->
-<ol>
-<li> Klicke auf das Benutzer-Icon <i class="fas fa-user"></i>.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot der Anmeldung Schritt 1" src="img/anmeldung_1.png">
-	</details>
-</li>
 
-<li> Klicke auf `anmelden ...`.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot der Anmeldung Schritt 2" src="img/anmeldung_2.png">
-	</details>
-</li>
+<!-- tabs:start -->
 
-<li> Klicke auf `neu`
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot der Anmeldung Schritt 3" src="img/anmeldung_3.png">
-	</details>
-</li>
+#### **Nur Text**
 
-<li> Fülle das Anmelde-Formular aus.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot der Anmeldung Schritt 4" src="img/anmeldung_4.png">
-	</details>
-</li>
+1. Klicke auf das Benutzer-Icon <i class="fas fa-user"></i>
+2. Klicke auf `anmelden ...`.
+3. Klicke auf `neu`.
+4. Fülle das Anmelde-Formular aus.
+5. Klicke auf `Jetzt registrieren`
 
-<li> Klicke auf `Jetzt registrieren` </li>
-</ol>
+#### **Text + Bildschirmaufnahmen**
+
+1. Klicke auf das Benutzer-Icon <i class="fas fa-user"></i>
+   ![Screenshot der Anmeldung Schritt 1](img/anmeldung_1.png)
+
+2. Klicke auf `anmelden ...`.
+   ![Screenshot der Anmeldung Schritt 2](img/anmeldung_2.png)
+
+3. Klicke auf `neu`
+   ![Screenshot der Anmeldung Schritt 3](img/anmeldung_3.png)
+
+4. Fülle das Anmelde-Formular aus.
+   ![Screenshot der Anmeldung Schritt 4](img/anmeldung_4.png)
+
+5. Klicke auf `Jetzt registrieren`
+
+<!-- tabs:end -->
+
+
 
 i> Die Felder `Name` und `E-Mail` sind **optional**.
 
 ## <i class="fas fa-save"></i> Programm speichern
 Hier findest du eine Schritt-für-Schirtt-Anleitung, wie dein Programm speicher kannst.
-<ol>
-<li> Klicke auf das Bearbeiten-Icon.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 1" src="img/Programm_speichern_1.png">
-	</details>
-</li>
 
-<li> Klicke auf `speichern unter ...`.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_2.png">
-	</details>
-</li>
+<!-- tabs:start -->
 
-<li> Gib deinem Programm einen Namen.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 3" src="img/Programm_speichern_3.png">
-	</details>
-</li>
+#### **Nur Text**
+1. Klicke auf das Bearbeiten-Icon.
+2. Klicke auf `speichern unter ...`.
+3. Gib deinem Programm einen Namen.
+4. Klicke auf `OK`.
 
-<li> Klicke auf `OK`.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 4" src="img/Programm_speichern_4.png">
-	</details>
-</li>
-</ol>
+#### **Text + Bildschirmaufnahmen**
+1. Klicke auf das Bearbeiten-Icon.
+   ![Screenshot des Speicherns Schritt 1](img/Programm_speichern_1.png)
+2. Klicke auf `speichern unter ...`.
+   ![Screenshot des Speicherns Schritt 2](img/Programm_speichern_2.png)
+3. Gib deinem Programm einen Namen.
+   ![Screenshot des Speicherns Schritt 3](img/Programm_speichern_3.png)
+4. Klicke auf `OK`.
+   ![Screenshot des Speicherns Schritt 4](img/Programm_speichern_4.png)
+
+<!-- tabs:end -->
 
 ## <i class="fas fa-folder-open"></i> Programm öffnen
 Um ein Programm zu öffnen, muss du dich zunächst anmelden.
 
 Danach kannst du ...
-<ol>
-<li> auf das Bearbeiten-Icon klicken,
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Öffnens eines Programmes Schritt 1" src="img/Programm_speichern_1.png">
-	</details>
-</li>
-<li> auf `meine Programme ...` klicken,
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_6.png">
-	</details>
-</li>
-<li> dann das Programm aus der Liste deiner Programmes auswählen und per Maus-Klick öffnen.
-	<details>
-	<summary>Bildschirmaufnahme anzeigen.</summary>
-		<img alt="Screenshot des Speicherns Schritt 2" src="img/Programm_speichern_6.png">
-	</details>
-</li>
 
-</ol>
+<!-- tabs:start -->
+
+#### **Nur Text**
+
+1. auf das Bearbeiten-Icon klicken,
+2. auf `meine Programme ...` klicken,
+3. dann das Programm aus der Liste deiner Programmes auswählen und per Maus-Klick öffnen.
+
+#### **Text + Bildschirmaufnahmen**
+
+1. auf das Bearbeiten-Icon klicken,
+   ![Screenshot des Öffnens eines Programmes Schritt 1](img/Programm_speichern_1.png)
+2. auf `meine Programme ...` klicken,
+   ![Screenshot des Speicherns Schritt 2](img/Programm_speichern_6.png)
+3. dann das Programm aus der Liste deiner Programmes auswählen und per Maus-Klick öffnen.
+   ![Screenshot des Speicherns Schritt 2](img/Programm_speichern_6.png)
+
+<!-- tabs:end -->
+
+
+## <i class="fas fa-download"></i> Programm auf Roboter übertragen
+
 
 
 ## <i class="fas fa-desktop"></i> Bildschirmaufnahmen
