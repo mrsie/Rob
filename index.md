@@ -18,8 +18,5 @@ Diese Webseite ist wie folgt aufgebaut:
 * [Frequently Asked Questions (FAQ)](FAQ.md)
 
 
-## Test
-
-
 
 
